@@ -1,0 +1,264 @@
+fileFormatVersion: 2
+guid: d9e91f197dc0b89418cd07024e607fdd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4721724998804277403
+    second: RedTowerAttac_0
+  - first:
+      213: 3723726113608781699
+    second: RedTowerAttac_1
+  - first:
+      213: 3414652466310623853
+    second: RedTowerAttac_2
+  - first:
+      213: 5243812700771808221
+    second: RedTowerAttac_3
+  - first:
+      213: 7236488305598963948
+    second: RedTowerAttac_4
+  - first:
+      213: 2455474320158711591
+    second: RedTowerAttac_5
+  - first:
+      213: 1998764519769399232
+    second: RedTowerAttac_6
+  - first:
+      213: -3894163546024075338
+    second: RedTowerAttac_7
+  - first:
+      213: 5959392963804300629
+    second: RedTowerAttac_8
+  - first:
+      213: -2318982670141795351
+    second: RedTowerAttac_9
+  - first:
+      213: -1748711429657030359
+    second: RedTowerAttac_10
+  - first:
+      213: -4119189932295589755
+    second: RedTowerAttac_11
+  - first:
+      213: 9166136162648537214
+    second: RedTowerAttac_12
+  - first:
+      213: 5485013899338906508
+    second: RedTowerAttac_13
+  - first:
+      213: -649901020906369063
+    second: RedTowerAttac_14
+  - first:
+      213: 2020937080558055045
+    second: RedTowerAttac_15
+  - first:
+      213: 1310095146039635876
+    second: RedTowerAttac_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RedTowerAttac_2
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 77
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d623bd59358436f20800000000000000
+      internalID: 3414652466310623853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTowerAttac_10
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 77
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92190a448345bb7e0800000000000000
+      internalID: -1748711429657030359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedTowerAttac_13
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 54
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8bfc22a41fae1c40800000000000000
+      internalID: 5485013899338906508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ac1139b135fdc8941ba496181abed12f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RedTowerAttac_0: 4721724998804277403
+      RedTowerAttac_1: 3723726113608781699
+      RedTowerAttac_10: -1748711429657030359
+      RedTowerAttac_11: -4119189932295589755
+      RedTowerAttac_12: 9166136162648537214
+      RedTowerAttac_13: 5485013899338906508
+      RedTowerAttac_14: -649901020906369063
+      RedTowerAttac_15: 2020937080558055045
+      RedTowerAttac_16: 1310095146039635876
+      RedTowerAttac_2: 3414652466310623853
+      RedTowerAttac_3: 5243812700771808221
+      RedTowerAttac_4: 7236488305598963948
+      RedTowerAttac_5: 2455474320158711591
+      RedTowerAttac_6: 1998764519769399232
+      RedTowerAttac_7: -3894163546024075338
+      RedTowerAttac_8: 5959392963804300629
+      RedTowerAttac_9: -2318982670141795351
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
